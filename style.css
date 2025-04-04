@@ -1,0 +1,58 @@
+body{
+  font-family: "garamond";
+  /*background-color: 
+  */
+ background-attachment: fixed;
+ background-size: cover;
+ background-image: url(https://i.pinimg.com/736x/af/37/68/af3768d0550a24a1742e2f5e26333950.jpg)
+}
+
+h1{
+  color: black;
+  font-size: 60px;
+  text-align: center;
+}
+
+h2{
+  font-size: 40px;
+  text-align: center;
+  color: black;
+}
+
+p{
+  font-size: 25px;
+  color: black;
+  text-align: center; 
+}
+
+h3{
+  font-size: 30px;
+  text-align: center;
+}
+
+p2{
+  font-size: 25px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  color: white;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+li a:hover {
+  background-color: #111;
+}
